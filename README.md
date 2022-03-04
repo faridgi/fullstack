@@ -2,9 +2,9 @@
 
 projet de vente des objets avec NODEJS, EXPRESS et MONGODB 
 
-créer un serveur web simple avec Express ;
+création d'un serveur web simple avec Express ;
 
-créer une API REST avec Node, Express et MongoDB ;
+création d'une API REST avec Node, Express et MongoDB ;
 
 mettre en place un système d'authentification sur une application Express ;
 

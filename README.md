@@ -1,7 +1,6 @@
-# fullstack
+# projet de vente des objets avec NODEJS, EXPRESS et MONGODB
 
-projet de vente des objets avec NODEJS, EXPRESS et MONGODB 
-
+ 
 création d'un serveur web simple avec Express ;
 
 création d'une API REST avec Node, Express et MongoDB ;

@@ -1,4 +1,4 @@
-# projet de vente des objets avec NODEJS, EXPRESS et MONGODB
+# projet de vente des objets réalisé avec NODEJS, EXPRESS et MONGODB
 
  
 création d'un serveur web simple avec Express ;
